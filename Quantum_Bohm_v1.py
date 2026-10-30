@@ -34,9 +34,9 @@ from scipy.special import logsumexp
 
 
 FILES = (
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4710_k86.csv"),
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4710_k86_loto_2977.csv"),
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4710_k86_loto_plus_1733.csv"),
+    Path("/data/loto7_4710_k86.csv"),
+    Path("/data/loto7_4710_k86_loto_2977.csv"),
+    Path("/data/loto7_4710_k86_loto_plus_1733.csv"),
 )
 
 
@@ -3378,9 +3378,9 @@ DIJAGNOSTIKA: 6 treninga nema potvrđen gradijentni uslov; njihovi minimumi nisu
 DIJAGNOSTIKA: Istorijske ulazne faze nisu dale niži test NLL od dijagnostičke kontrole bez tih faza.
 
 ZAVRŠNI NEXT REZULTATI
-loto7_4710_k86.csv | NEXT: 1 3 4 10 15 24 33
-loto7_4710_k86_loto_2977.csv | NEXT: 2 3 12 15 18 20 34
-loto7_4710_k86_loto_plus_1733.csv | NEXT: 8 10 14 18 19 26 29
+loto7_4710_k86.csv | NEXT: 1 x 4 y 15 z 33
+loto7_4710_k86_loto_2977.csv | NEXT: 2 x 12 y 18 z 34
+loto7_4710_k86_loto_plus_1733.csv | NEXT: 8 x 14 y 19 z 29
 """
 
 
